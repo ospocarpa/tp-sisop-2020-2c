@@ -11,4 +11,4 @@ Trabajo práctico de Sistemas Operativos.
 
 [Commons Library For C](https://github.com/sisoputnfrba/so-commons-library) - Las commons libraries papá
 
-[FAQ](http://faq.utn.so.ar) - Varios links útiles
+[FAQ](https://faq.utnso.com.ar/) - Varios links útiles
