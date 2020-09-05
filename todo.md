@@ -3,7 +3,7 @@
 
 - [X] Familiarizarse con Linux y su consola, el entorno de desarrollo y el repositorio.
 
-- [] Aplicar las Commons Libraries, principalmente las funciones para listas, archivos de conf y logs. 
+- [ ] Aplicar las Commons Libraries, principalmente las funciones para listas, archivos de conf y logs. 
 
 - [] Definir el Protocolo de Comunicación.
 
